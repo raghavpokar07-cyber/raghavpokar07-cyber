@@ -243,7 +243,7 @@ function renderContributionTower(days, year, updatedAt) {
   const weekPitch = 15;
   const dayPitch = 8;
   const originX = 205;
-  const originY = 82;
+  const originY = 105;
   const janFirstWeekday = new Date(Date.UTC(year, 0, 1)).getUTCDay();
   const dateLabels = new Map();
   const sortedDays = [...days].sort((a, b) => a.date.localeCompare(b.date));
@@ -273,7 +273,7 @@ function renderContributionTower(days, year, updatedAt) {
 
   const monthMarkup = [...dateLabels.entries()]
     .map(([week, month]) =>
-      `<text x="${originX + week * weekPitch}" y="38" fill="#94A3B8" font-size="12">${xml(month)}</text>`,
+      `<text x="${originX + week * weekPitch}" y="78" fill="#94A3B8" font-size="12">${xml(month)}</text>`,
     )
     .join("");
 
@@ -409,8 +409,8 @@ function relativeTime(timestamp, now) {
 function eventLabel(event) {
   switch (event.type) {
     case "PushEvent": {
-      const count = event.payload?.size ?? event.payload?.commits?.length ?? 0;
-      return `Pushed ${count} commit(s)`;
+      const count = event.payload?.size || event.payload?.commits?.length;
+      return typeof count === "number" && count > 0 ? `Pushed ${count} commit(s)` : "Pushed updates";
     }
     case "PullRequestEvent":
       return `${event.payload?.action || "Updated"} a pull request`;

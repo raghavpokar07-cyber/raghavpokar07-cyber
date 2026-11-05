@@ -81,9 +81,9 @@ test("activity feed labels supported event types and accurately states it is per
     type: "PushEvent",
     created_at: "2026-01-02T23:00:00.000Z",
     repo: { name: "raghavpokar07-cyber/HackConnect" },
-    payload: { size: 5, commits: [{ message: "private details not copied" }] },
+    payload: { size: 0, commits: [{ message: "private details not copied" }] },
   };
-  assert.equal(eventLabel(event), "Pushed 5 commit(s)");
+  assert.equal(eventLabel(event), "Pushed 1 commit(s)");
   assert.equal(relativeTime(event.created_at, now), "1h ago");
   const svg = renderActivity([event], "2026-01-03T00:00:00.000Z", now);
   assert.match(svg, /PERIODIC, NOT LIVE/);
