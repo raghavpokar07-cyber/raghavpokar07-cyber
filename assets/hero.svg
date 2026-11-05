@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Raghav Pokar — futuristic developer profile</title>
+  <desc id="desc">Original dark cyberpunk banner with neon purple, blue, cyan, and magenta grid accents.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#05070D"/>
+      <stop offset=".58" stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111027"/>
+    </linearGradient>
+    <linearGradient id="titleGlow" x2="1">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset=".55" stop-color="#C4B5FD"/>
+      <stop offset="1" stop-color="#67E8F9"/>
+    </linearGradient>
+    <linearGradient id="line" x2="1">
+      <stop stop-color="#A855F7" stop-opacity="0"/>
+      <stop offset=".48" stop-color="#3B82F6"/>
+      <stop offset=".8" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="skewY(-18)">
+      <path d="M40 0H0V40" fill="none" stroke="#3B82F6" stroke-opacity=".14" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop stop-color="#3B82F6" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="96" rx="370" ry="260" fill="url(#glow)"/>
+  <path d="M0 278H1200" stroke="#A855F7" stroke-opacity=".24"/>
+  <path d="M0 281H1200" stroke="url(#line)" stroke-width="2" filter="url(#soft)"/>
+  <g fill="none" stroke="#22D3EE" stroke-opacity=".4">
+    <path d="M858 277V202l44-24 44 24v75M965 277V147l38-22 38 22v130M1058 277V185l34-19 34 19v92M1143 277V119l28-16 29 16v158"/>
+    <path d="M858 226h88m19-36h76m17 26h68m17-72h57" stroke-opacity=".25"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="902" cy="205" r="3"/><circle cx="1003" cy="151" r="3"/>
+    <circle cx="1092" cy="188" r="3"/><circle cx="1171" cy="124" r="3"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="76" y="82" fill="#22D3EE" font-size="15" font-weight="700" letter-spacing="5">PERSONAL ENGINEERING PROFILE / 2026</text>
+    <text x="72" y="170" fill="#A855F7" opacity=".65" font-size="62" font-weight="800" letter-spacing="3" filter="url(#soft)">RAGHAV POKAR</text>
+    <text x="72" y="166" fill="url(#titleGlow)" font-size="62" font-weight="800" letter-spacing="3">RAGHAV POKAR</text>
+    <text x="76" y="211" fill="#CBD5E1" font-size="18" font-weight="600" letter-spacing="2">AI ENGINEERING  /  FULL-STACK  /  CYBERSECURITY</text>
+    <text x="76" y="250" fill="#94A3B8" font-size="15">Building intelligent systems. Engineering the future.</text>
+    <text x="76" y="318" fill="#64748B" font-family="JetBrains Mono,Consolas,monospace" font-size="12" letter-spacing="1">[ SYSTEM ONLINE ] — GITHUB PUBLIC DATA — NO SIMULATED METRICS</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#3B82F6" stroke-opacity=".42"/>
+</svg>

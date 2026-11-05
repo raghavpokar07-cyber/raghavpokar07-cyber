@@ -1,0 +1,51 @@
+{
+  "refreshedAt": "2026-11-05T07:18:04.509Z",
+  "profile": {
+    "publicRepositories": 4,
+    "stars": 0,
+    "followers": 0,
+    "following": 0,
+    "contributionCalendarTotal": 32,
+    "authoredPublicPullRequests": 0,
+    "authoredPublicIssues": 0
+  },
+  "languages": {
+    "TypeScript": 281320,
+    "CSS": 121697,
+    "HTML": 282960,
+    "Python": 218998,
+    "JavaScript": 7086,
+    "Batchfile": 5501,
+    "Shell": 4001
+  },
+  "featuredProjects": [
+    {
+      "repository": "raghavpokar07-cyber/HackConnect",
+      "role": "Creator",
+      "publicContributionCount": null,
+      "description": "HackConnect is an AI-powered platform that helps students discover hackathons, find teammates based on their skills, form teams, chat, assign roles, and collaborate on projects. It brings hackathon opportunities and student communities together in one place.",
+      "homepage": "https://hack-connect-indol.vercel.app/"
+    },
+    {
+      "repository": "raghavpokar07-cyber/ai-tTeacher",
+      "role": "Personal project",
+      "publicContributionCount": null,
+      "description": "AI Teacher project with Python, HTML, and separate backend and frontend folders.",
+      "homepage": null
+    },
+    {
+      "repository": "raghavpokar07-cyber/NPC",
+      "role": "Personal web experiments",
+      "publicContributionCount": null,
+      "description": "HTML experiments including a 3D page and digital visiting-card pages.",
+      "homepage": null
+    },
+    {
+      "repository": "kkolap22/JobGuardAI_MUSA",
+      "role": "Public contributor",
+      "publicContributionCount": 2,
+      "description": "JobGuard AI is a full-stack application designed to protect job seekers from deceptive and malicious recruitment websites. It combines browser automation, risk detection rules, and AI-powered analysis to scan suspicious job portals and flag behaviors such as phishing attempts, fake application forms, credential collection, unsafe redirects .",
+      "homepage": "https://job-guardai-musa.vercel.app/"
+    }
+  ]
+}
