@@ -32,7 +32,7 @@ Each isometric block represents a real day from GitHub's contribution calendar. 
 
 <div align="center">
 
-<img src="assets/contributions-3d.svg" alt="Isometric GitHub contribution calendar; the first real-data refresh is pending" width="100%">
+<img src="assets/contributions-3d.svg" alt="Isometric GitHub contribution calendar" width="100%">
 
 </div>
 
@@ -40,7 +40,7 @@ Each isometric block represents a real day from GitHub's contribution calendar. 
 
 <div align="center">
 
-<img src="assets/analytics.svg" alt="GitHub repository, contribution, and language analytics; the first real-data refresh is pending" width="100%">
+<img src="assets/analytics.svg" alt="GitHub repository, contribution, and language analytics" width="100%">
 
 </div>
 
@@ -61,7 +61,7 @@ Public GitHub events are sampled periodically; this is **not real-time**. The ge
 
 <div align="center">
 
-<img src="assets/activity.svg" alt="Recent public GitHub activity timeline; the first refresh is pending" width="100%">
+<img src="assets/activity.svg" alt="Recent public GitHub activity timeline" width="100%">
 
 </div>
 
@@ -71,7 +71,7 @@ The tower and analytics are generated from GitHub's contribution calendar for th
 
 <div align="center">
 
-<img src="assets/contributions-calendar.svg" alt="Traditional view of the current year's GitHub contribution calendar; the first real-data refresh is pending" width="100%">
+<img src="assets/contributions-calendar.svg" alt="Traditional view of the current year's GitHub contribution calendar" width="100%">
 
 </div>
 
@@ -81,7 +81,7 @@ Milestones and counts are sourced from public GitHub metadata. No unverified awa
 
 <div align="center">
 
-<img src="assets/milestones.svg" alt="Verified GitHub milestones; the first real-data refresh is pending" width="100%">
+<img src="assets/milestones.svg" alt="Verified GitHub milestones" width="100%">
 
 </div>
 
