@@ -1,5 +1,5 @@
 {
-  "refreshedAt": "2026-11-11T14:34:01.641Z",
+  "refreshedAt": "2026-11-12T15:26:25.198Z",
   "profile": {
     "publicRepositories": 4,
     "stars": 0,
@@ -10,10 +10,10 @@
     "authoredPublicIssues": 0
   },
   "languages": {
+    "JavaScript": 41856,
     "TypeScript": 281386,
     "CSS": 121738,
     "HTML": 282960,
-    "JavaScript": 41856,
     "Python": 218998,
     "Batchfile": 5501,
     "Shell": 4001
