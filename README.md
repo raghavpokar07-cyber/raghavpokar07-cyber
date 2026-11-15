@@ -74,28 +74,6 @@ I'm a cybersecurity enthusiast passionate about ethical hacking, cybersecurity, 
 
 <img src="https://streak-stats.demolab.com/?user=raghavpokar07-cyber&theme=shadow_blue&hide_border=false" alt="Raghav's GitHub contribution streak" height="165">
 
-<br>
-
-
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-
-</div>
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-
-
-</div>
-
-## ✍️ Random Dev Quote
 
 <div align="center">
 
