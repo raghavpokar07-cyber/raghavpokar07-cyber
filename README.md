@@ -71,12 +71,12 @@ I'm a cybersecurity enthusiast passionate about ethical hacking, cybersecurity, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghavpokar07-cyber&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="Raghav's GitHub statistics" height="165">
+
 <img src="https://streak-stats.demolab.com/?user=raghavpokar07-cyber&theme=shadow_blue&hide_border=false" alt="Raghav's GitHub contribution streak" height="165">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpokar07-cyber&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Raghav's top languages" height="165">
+
 
 </div>
 
