@@ -84,7 +84,6 @@ I'm a cybersecurity enthusiast passionate about ethical hacking, cybersecurity, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raghavpokar07-cyber&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="GitHub profile trophies">
 
 </div>
 
@@ -92,7 +91,7 @@ I'm a cybersecurity enthusiast passionate about ethical hacking, cybersecurity, 
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=raghavpokar07-cyber&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Top contributed repositories">
+
 
 </div>
 
@@ -100,7 +99,7 @@ I'm a cybersecurity enthusiast passionate about ethical hacking, cybersecurity, 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random developer quote">
+
 
 <br><br>
 
