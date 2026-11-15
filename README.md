@@ -59,6 +59,12 @@ I'm a cybersecurity enthusiast passionate about ethical hacking, cybersecurity, 
 ## 🚀 Featured Projects
 
 <!-- PROJECTS:START -->
+| Project | Verified summary | Primary language | Relationship |
+|---|---|---|---|
+| [HackConnect](https://github.com/raghavpokar07-cyber/HackConnect) | AI-powered hackathon discovery and team collaboration platform. | TypeScript · React · Express · MongoDB | Creator · [Demo](https://hack-connect-indol.vercel.app/) |
+| [AI Teacher](https://github.com/raghavpokar07-cyber/ai-tTeacher) | AI Teacher project with Python, HTML, and separate backend and frontend folders. | Python · HTML · CSS · JavaScript | Personal project |
+| [NPC](https://github.com/raghavpokar07-cyber/NPC) | HTML experiments including a 3D page and digital visiting-card pages. | HTML | Personal web experiments |
+| [JobGuardAI_MUSA](https://github.com/kkolap22/JobGuardAI_MUSA) | Full-stack job-scam detection platform with AI-powered analysis. | TypeScript · React · Express · MongoDB · Playwright | Contributor |
 <!-- PROJECTS:END -->
 
 ## 📊 GitHub Stats
