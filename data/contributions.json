@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "contributionCalendarTotal": 42,
-  "refreshedAt": "2026-11-20T15:38:01.123Z",
+  "refreshedAt": "2026-11-21T14:48:09.176Z",
   "days": [
     {
       "date": "2026-01-01",
@@ -1297,6 +1297,10 @@
     },
     {
       "date": "2026-11-20",
+      "contributionCount": 0
+    },
+    {
+      "date": "2026-11-21",
       "contributionCount": 0
     }
   ]
