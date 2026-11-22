@@ -1,19 +1,19 @@
 {
-  "refreshedAt": "2026-11-21T14:48:09.176Z",
+  "refreshedAt": "2026-11-22T14:43:47.066Z",
   "profile": {
-    "publicRepositories": 4,
+    "publicRepositories": 5,
     "stars": 0,
     "followers": 0,
     "following": 0,
-    "contributionCalendarTotal": 42,
+    "contributionCalendarTotal": 44,
     "authoredPublicPullRequests": 0,
     "authoredPublicIssues": 0
   },
   "languages": {
-    "JavaScript": 41856,
+    "HTML": 399057,
+    "JavaScript": 126048,
     "TypeScript": 281386,
     "CSS": 126704,
-    "HTML": 282960,
     "Python": 218998,
     "Batchfile": 5501,
     "Shell": 4001
